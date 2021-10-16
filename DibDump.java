@@ -8,6 +8,8 @@
  * and extract what you need from here to populate it.
  *
  * This code has a lot of magic numbers. I suggest you figure out what they are for and make properly named constants for them
+ * @author Eric Nelson
+ * @author Hilari Fan
  *
  * Rev: 2/18/09 - case 1: for 2 colors was missing
  *                case 2: had 2 not 4 colors.
